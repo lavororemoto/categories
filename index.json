@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a746ff88-01d4-41b5-ae24-f907b2044075",
+    "name": "Design",
+    "slug": "design",
+    "figure": "Designer",
+    "figures": "Designers",
+    "color": "#4CAF50"
+  },
+  {
+    "id": "7945fb6c-5a7d-4c0a-851c-d338910718df",
+    "name": "Programmazione",
+    "slug": "programmazione",
+    "figure": "Sviluppatore",
+    "figures": "Sviluppatori",
+    "color": "#039BE5"
+  },
+  {
+    "id": "862a1536-a892-423a-9f80-90cf1226ed75",
+    "name": "Dev-ops",
+    "slug": "dev-ops",
+    "figure": "Sistemista",
+    "figures": "Sistemisti",
+    "color": "#F44336"
+  },
+  {
+    "id": "2ff18570-932e-44c9-8c68-5a50d3890337",
+    "name": "Copywriting",
+    "slug": "copywriting",
+    "figure": "Copywriter",
+    "figures": "Copywriters",
+    "color": "#F7971C"
+  },
+  {
+    "id": "f948d349-a663-46aa-848d-d5d58e0d4ef2",
+    "name": "Management",
+    "slug": "management",
+    "figure": "Manager",
+    "figures": "Managers",
+    "color": "#FFC107"
+  },
+  {
+    "id": "ae048fbc-5f84-4e74-b284-2afa478b9e4b",
+    "name": "Marketing",
+    "slug": "marketing",
+    "figure": "Marketer",
+    "figures": "Marketers",
+    "color": "#9C27B0"
+  }
+]
